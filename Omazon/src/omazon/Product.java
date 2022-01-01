@@ -7,7 +7,7 @@ package omazon;
 
 public class Product {
 
-    private String productName;
+    private String productName = "faster do project";
     private String category;
     private String description;
     private double price;
